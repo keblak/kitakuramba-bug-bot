@@ -11,12 +11,12 @@ global.socialm = "GitHub: Collome"
 global.location = "Africa, Kenya, Siaya"
 
 global.ownernumber = '254 106 261776'  //creator number
-global.ownername = 'not.lil_ron' //owner name
-global.botname = '🕷not.lil_ron🕷' //name of the bot
+global.ownername = 'Sunny' //owner name
+global.botname = '🕷Sunny🕷' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'not.lil_ron \n\nContact: +254769373930'
+global.author = 'Sunny \n\nContact: +254769373930'
 
 //console view/theme
 global.themeemoji = '🪄'
@@ -31,7 +31,7 @@ global.prefa = ['','!','.','#','&']
 //false=disable and true=enable
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
-global.autorecordtype = true //auto typing + recording
+global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
