@@ -10,9 +10,9 @@ global.ytname = "Collome"
 global.socialm = "GitHub: Collome"
 global.location = "Africa, Kenya, Siaya"
 
-global.ownernumber = '254 739 582115'  //creator number
-global.ownername = '💜ᎯЅℋℒᎽ💜♾️' //owner name
-global.botname = '💜ᎯЅℋℒᎽ💜♾️' //name of the bot
+global.ownernumber = '254 769373930 '  //creator number
+global.ownername = '⚓༒☠ℬℒᎯᏦℰ☠༒⚓' //owner name
+global.botname = '⚓༒☠ℬℒᎯᏦℰ☠༒⚓' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
