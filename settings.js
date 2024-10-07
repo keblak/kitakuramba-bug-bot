@@ -10,9 +10,9 @@ global.ytname = "Collome"
 global.socialm = "GitHub: Collome"
 global.location = "Africa, Kenya, Siaya"
 
-global.ownernumber = '254 755 437911'  //creator number
-global.ownername = 'SHAKUR' //owner name
-global.botname = 'SHAKUR♾️' //name of the bot
+global.ownernumber = '254 703 162477'  //creator number
+global.ownername = 'WESLEY' //owner name
+global.botname = 'WESLEY♾️' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
@@ -29,9 +29,9 @@ global.link = 'https://whatsapp.com/channel/0029VagJS3S0LKZJzeN30G0G'
 global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
-global.autoRecording = true //auto recording
+global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
-global.autorecordtype = false //auto typing + recording
+global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
